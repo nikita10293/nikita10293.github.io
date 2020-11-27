@@ -14,7 +14,7 @@ html, body {
 	background: lightgrey;
 	font-size: 16px;
 }
-img	{ width: 100%; }
+img	{ width: 100%;  }
 
 a {
 	color: #333333; outline: 0;
@@ -96,7 +96,7 @@ h3 {
 }
 
 .templatemo_mainorder{
-	background: pink;
+	background:#F7E8A4;
 	text-align: center;
 	width: 100%;
 	float: left;
@@ -109,13 +109,13 @@ h3 {
 }
 
 .templatemo_maintesti {
-	background: #7C97CB;
+	background: #7DCFB6;
 	text-align: center;
 	width: 100%;
 }
 
 .templatemo_mainabout	{
-	background: #FF8585;
+	background: #7D84B2;
 	text-align: center;
 	width: 100%;
 }
@@ -264,8 +264,8 @@ h3 {
 }
 
 .resp-vtabs ul.templatemo_tab { float: left; width: 100%; }
-.resp-vtabs ul.templatemo_tab li { padding: 0px; background: url(../images/templatemo_arrow_gap.png) no-repeat center right #cc9933; font-size: 24px; text-align: center; font-weight: normal; }
-.resp-vtabs ul.templatemo_tab li.resp-tab-active{ background: url(../images/templatemo_arrow.png) no-repeat center right #cc9933; border: 0px; padding: 0px; color: #ffffff; }
+.resp-vtabs ul.templatemo_tab li { padding: 0px; background: url(../images/templatemo_arrow_gap.png) no-repeat center right lightblue; font-size: 24px; text-align: center; font-weight: normal; }
+.resp-vtabs ul.templatemo_tab li.resp-tab-active{ background: url(../images/templatemo_arrow.png) no-repeat center right lightblue; border: 0px; padding: 0px; color: #ffffff; }
 
 .resp-vtabs ul.templatemo_testitab { float: left; width: 100%; }
 .resp-vtabs ul.templatemo_testitab li { padding: 0px; background: url(../images/templatemo_arrow_gap.png) no-repeat center right #339966; font-size: 24px; text-align: center; font-weight: normal; }
@@ -279,7 +279,7 @@ h2.resp-accordion	{ color: #ffffff; }
  background: #339966 !important; }
  
 .templatemo_aboutcontainer h2.resp-accordion {
- background: #cc9933 !important; }
+ background: lightblue !important; }
  
 /*----- Page Load ------*/
 
